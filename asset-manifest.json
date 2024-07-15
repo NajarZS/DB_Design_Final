@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/DataPlace/static/css/main.f57e619a.css",
-    "main.js": "/DataPlace/static/js/main.19cb405c.js",
-    "index.html": "/DataPlace/index.html",
-    "main.f57e619a.css.map": "/DataPlace/static/css/main.f57e619a.css.map",
-    "main.19cb405c.js.map": "/DataPlace/static/js/main.19cb405c.js.map"
+    "main.css": "/DB_Design_Final/static/css/main.f57e619a.css",
+    "main.js": "/DB_Design_Final/static/js/main.fa6abf21.js",
+    "index.html": "/DB_Design_Final/index.html",
+    "main.f57e619a.css.map": "/DB_Design_Final/static/css/main.f57e619a.css.map",
+    "main.fa6abf21.js.map": "/DB_Design_Final/static/js/main.fa6abf21.js.map"
   },
   "entrypoints": [
     "static/css/main.f57e619a.css",
-    "static/js/main.19cb405c.js"
+    "static/js/main.fa6abf21.js"
   ]
 }
