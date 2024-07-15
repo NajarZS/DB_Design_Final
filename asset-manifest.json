@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DataPlace/static/css/main.f57e619a.css",
+    "main.js": "/DataPlace/static/js/main.19cb405c.js",
+    "index.html": "/DataPlace/index.html",
+    "main.f57e619a.css.map": "/DataPlace/static/css/main.f57e619a.css.map",
+    "main.19cb405c.js.map": "/DataPlace/static/js/main.19cb405c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f57e619a.css",
+    "static/js/main.19cb405c.js"
+  ]
+}
